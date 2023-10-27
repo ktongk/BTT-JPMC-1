@@ -1,2 +1,5 @@
 .vscode/
 .DS_Store
+# ignore the data folder.
+# Note: it might not need to ignore in the future, but as for now, igonre it so it doesn't modify the folder every time
+data/
