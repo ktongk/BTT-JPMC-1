@@ -6,3 +6,4 @@ data/
 *.pyc
 myvenv2/
 myvenv/
+myvenv2/Lib/site-packages
